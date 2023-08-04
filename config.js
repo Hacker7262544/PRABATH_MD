@@ -12,14 +12,14 @@ global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.devs = '94762280384';
 global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+923072984786
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/9419adc327a9bc61396c4.jpg'
 module.exports = {
   OPENAI_API_KEY:process.env.OPENAI_API_KEY || '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',
   botname: process.env.BOT_NAME || 'Y̶A̶Q̶O̶O̶B̶',
   dl_limit: process.env.DL_SIZE || '300',
   art: process.env.AUTO_RESTART || 'true',
   sudo: process.env.SUDO || '94762280384',
-  alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/bd33843477770dbaeb7fa.jpg',
+  alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/9419adc327a9bc61396c4.jpg',
   alivemsj: process.env.ALIVE_MSJ || '*POWERD BY Y̶A̶Q̶O̶O̶B̶-MD* 🎊',
   ownername:process.env.OWNER_NAME || 'Y̶A̶Q̶O̶O̶B̶',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
