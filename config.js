@@ -11,7 +11,7 @@ global.github = 'https://github.com/prabathLK/PRABATH-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.devs = '94762280384';
-global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+923072984786
+global.website = 'https://github.com/prabathLK/Y̶A̶Q̶O̶O̶B̶-MD' //wa.me/+923072984786
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/9419adc327a9bc61396c4.jpg'
 module.exports = {
   OPENAI_API_KEY:process.env.OPENAI_API_KEY || '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',
@@ -43,7 +43,7 @@ module.exports = {
   ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || '',
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'put-key-here',
   VERSION: process.env.VERSION === undefined ? 'v.5.0.0' : process.env.VERSION,
-  LANG: process.env.THEME|| 'PRABATH-MD',
+  LANG: process.env.THEME|| 'Y̶A̶Q̶O̶O̶B̶-MD',
   WORKTYPE: process.env.WORK_TYPE === undefined ? 'public' : process.env.WORK_TYPE
 };
 
